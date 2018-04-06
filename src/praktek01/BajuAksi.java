@@ -11,7 +11,9 @@ package praktek01;
  */
 public class BajuAksi {
     public static void main(String[] args) {
-        
+        Baju Pendi = new Baju();
+        Baju Esti = new Baju();
+        Baju Rusdi = new Baju();
     }
     
 }
