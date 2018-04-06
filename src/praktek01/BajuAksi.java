@@ -32,6 +32,10 @@ public class BajuAksi {
         Rusdi.jenis = "Kemeja";
         Rusdi.ukuran = "XL";
         Rusdi.bahan = "Tissu";
+        
+        Pendi.cetakInfo();
+        Esti.cetakInfo();
+        Rusdi.cetakInfo();
     } 
     
 }
